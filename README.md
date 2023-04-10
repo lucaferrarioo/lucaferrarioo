@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaferrarioo
 - 👀 I’m interested in everything connected to technology and programming
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning TypeScript and React
 - 💞️ I’m looking to collaborate on every project idea i like
 - 📫 How to reach me: ferrario.luca.dev@gmail.com
 
